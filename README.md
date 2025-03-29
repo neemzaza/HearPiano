@@ -12,4 +12,11 @@ But! I don't have any experience in Swift. At first I was thinking it was too la
 - Best plan of development is important! I removed many feature that I making because it too much for 3 minutes interactive of app. I decided to keep best idea and feature of this app instead.
 - Be creative is also important for this challenge. Be creative of idea that your making.
 
+**Credit**
+All assets excepted below list made by me (Sarut)
+- 'Customer' character image source [Pixabay under Pixabay Content License](https://pixabay.com/vectors/ai-generated-man-person-obesity-8773213/)
+- 'House' scene image source [Pixabay under Pixabay Content License](https://pixabay.com/vectors/house-icon-symbol-architecture-2492054/)
+- 'Backpack' image source [Pixabay under Pixabay Content License](https://pixabay.com/vectors/backpack-bag-hiking-trip-travel-145841/)
+- Piano Sound by TEDAgame [Public domain](https://freesound.org/people/TEDAgame/packs/25405/)
+
 This event motivates me to try to coding and learning Swift with myself. And everything is possible to making and happening.
