@@ -1,0 +1,24 @@
+{
+  "originHash" : "392d7c50e2907d54a7cdd9a21e32a261b284eafb69b625febfdf11644259dae9",
+  "pins" : [
+    {
+      "identity" : "subsonic",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/Subsonic",
+      "state" : {
+        "revision" : "156c5742279df5d2315e29534a2410f418c8a772",
+        "version" : "0.2.0"
+      }
+    },
+    {
+      "identity" : "swiftui-interface-orientation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wvteijlingen/swiftui-interface-orientation.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "735bb1cbdad07e275ce7c53c16c3c56d448da947"
+      }
+    }
+  ],
+  "version" : 3
+}
